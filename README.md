@@ -3,6 +3,7 @@
 <div>
 
   
+<img width="418" height="384" alt="балдёжклассGIF" src="https://github.com/user-attachments/assets/f2192387-19ed-499b-a0ae-bcea113aee53" />
 
 
 <div align="center">
